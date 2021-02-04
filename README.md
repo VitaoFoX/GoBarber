@@ -10,7 +10,6 @@ GoBarber é um projeto do curso da RocketSeat. Tem como objetivo a criação de 
   <img src=".github/dashboardMobile.png" height="270px" />
   <img src=".github/dashboardWeb.png" height="300px" />
   <img src=".github/confirm.png" height="268px" />
-  <img src=".github/notificationsWeb.png" height="200px" width="300px" />
 </h1>
 
 
