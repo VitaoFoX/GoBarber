@@ -13,9 +13,6 @@ GoBarber é um projeto do curso da RocketSeat. Tem como objetivo a criação de 
 </h1>
 
 
-### Running
-
-
 ### Algumas __features__
 * Agendamento de clientes com prestadores de serviços
 * Envio de email de cancelamento de um agendamento
